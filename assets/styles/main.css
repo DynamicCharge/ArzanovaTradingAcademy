@@ -40,6 +40,8 @@
     font-size: 14px;
     line-height: 16px;
     text-transform: uppercase;
+    position: relative;
+    top: 10px;
 }
 .socials {
     display: flex;
