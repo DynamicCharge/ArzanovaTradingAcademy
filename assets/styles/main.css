@@ -142,9 +142,12 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+
+  transform: translateX(-100%);
+  transition:  0.5s ease-in-out;
 }
 .holder__active {
-
+  transform: translateX(0);
 }
 .holder__wrapper {
   /* border: 1px solid red; */
