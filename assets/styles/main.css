@@ -121,14 +121,18 @@
 .socials__line {
     width: 1px;
     height: 70px;
-    background-color: #f5f5f5;
+    background-color: #F5F5F5;
 }
 .socials__item {
-    padding: 6px;
+    padding: 6px 6px 6px;
     margin-top: 20px;
     border: 1px solid #F5F5F5;
     border-radius: 5px;
 }
+/* .socials__icon{
+  color: #49CE5F;
+  font-size: 100px;
+} */
 .nav__holder {
   height: 100vh;
   padding: 0 80px 35px 160px;
